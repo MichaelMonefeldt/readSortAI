@@ -1,1 +1,1 @@
-Michael Monefeldt
+Extract text from images
