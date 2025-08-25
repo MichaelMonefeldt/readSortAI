@@ -1,1 +1,1 @@
-Extract text from images
+Extract text from images, calling the OpenAI API.
